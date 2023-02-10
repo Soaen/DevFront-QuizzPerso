@@ -129,8 +129,6 @@ N'oubliez pas de donner une étoile au projet ! Merci encore !
 
 Sylvain - [Soaen](https://github.com/Soaen)
 
-Florian - [Florian593](https://github.com/Florian593)
-
 Lien du projet: [https://github.com/Soaen/DevFront-QuizzPerso](https://github.com/Soaen/DevFront-QuizzPerso)
 
 <p align="right">(<a href="#readme-top">Retourner en haut</a>)</p>
