@@ -35,7 +35,7 @@
 <h3 align="center">QuizzPerso</h3>
 
   <p align="center">
-    "La table de Chantal" nous a contacté afin de réaliser le site internet de leur restaurant.
+    Version Personnelle d'un site de Quiz devant être réalisé pendant la formation Développeur Front-End chez Simplon
     <br />
     <a href="https://github.com/Soaen/DevFront-QuizzPerso"><strong>Explorer la documentation »</strong></a>
     <br />
@@ -69,7 +69,7 @@
 <!-- ABOUT THE PROJECT -->
 ## A propos du projet
 
-"La table de Chantal" nous a contacté afin de réaliser le site internet de leur restaurant.
+Version Personnelle d'un site de Quiz devant être réalisé pendant la formation Développeur Front-End chez Simplon
 
 
 ### Langages Utilisés
