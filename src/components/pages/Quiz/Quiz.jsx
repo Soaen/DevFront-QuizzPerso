@@ -3,6 +3,8 @@ import { useParams, Link } from "react-router-dom";
 import quizzData from '../../datas/QuizData'
 
 export default function Quiz(){
+    document.title = "Quizz - Question"
+
     const { id } = useParams();
     const nbquest = (Math.floor(Math.random() * 2));
     const response = [quizzData[nbquest].response1, 
@@ -17,31 +19,20 @@ export default function Quiz(){
                         quizzData[nbquest].response10]
     const shuffledresponse = response.sort((a, b) => 0.5 - Math.random());
 
-
-
     return(
         <div>
 
-        
-
         <h2>{quizzData[nbquest].question}</h2>
-
             {
                 shuffledresponse.map(e => {
             return(
                 e === quizzData[nbquest].response1 ? <Link to='/response/1'> <p>{e}</p></Link>
                 : <Link to='/response/2'><p>{e}</p></Link>
-                        
-
                     )
                 })
             }
         
-
-
         </div>
 
     )
-    
-
 }
