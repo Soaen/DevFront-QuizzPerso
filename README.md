@@ -31,9 +31,6 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/Soaen/DevFront-QuizzPerso">
-    La table de Chantal
-  </a>
 
 <h3 align="center">QuizzPerso</h3>
 
